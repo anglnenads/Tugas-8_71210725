@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\SIParkir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|d:\\source\\siparkir\\siparkir\\frmlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\frmlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\frmlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\frmlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\laporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\laporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\frmlangganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\frmlangganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\frmlangganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\frmlangganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\moduledb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|D:\\source\\SIParkir\\siparkir\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{69ACB2EE-5617-4C3C-80A5-946E6E339CB1}|SIParkir\\SIParkir.vbproj|solutionrelative:siparkir\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmUtama.vb [Design]",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\frmUtama.vb",
+              "RelativeDocumentMoniker": "SIParkir\\frmUtama.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\frmUtama.vb [Design]",
+              "RelativeToolTip": "SIParkir\\frmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T10:06:08.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmlaporan.vb [Design]",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\frmlaporan.vb",
+              "RelativeDocumentMoniker": "SIParkir\\frmlaporan.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\frmlaporan.vb [Design]",
+              "RelativeToolTip": "SIParkir\\frmlaporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T15:07:06.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUtama.vb",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\frmUtama.vb",
+              "RelativeDocumentMoniker": "SIParkir\\frmUtama.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\frmUtama.vb",
+              "RelativeToolTip": "SIParkir\\frmUtama.vb",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAAAEkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-19T11:20:37.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\frmLogin.vb",
+              "RelativeDocumentMoniker": "SIParkir\\frmLogin.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\frmLogin.vb",
+              "RelativeToolTip": "SIParkir\\frmLogin.vb",
+              "ViewState": "AQIAABcAAAAAAAAAAAApwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-19T11:18:10.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmlaporan.vb",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\frmlaporan.vb",
+              "RelativeDocumentMoniker": "SIParkir\\frmlaporan.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\frmlaporan.vb",
+              "RelativeToolTip": "SIParkir\\frmlaporan.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T00:41:00.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\Report1.rdlc",
+              "RelativeDocumentMoniker": "SIParkir\\Report1.rdlc",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\Report1.rdlc [Design]",
+              "RelativeToolTip": "SIParkir\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-23T07:21:58.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "SIParkir\\DataSet1.xsd",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\DataSet1.xsd",
+              "RelativeToolTip": "SIParkir\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-23T00:44:47.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Laporan.vb [Design]",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\Laporan.vb",
+              "RelativeDocumentMoniker": "SIParkir\\Laporan.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\Laporan.vb [Design]",
+              "RelativeToolTip": "SIParkir\\Laporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T15:07:14.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLangganan.vb",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\frmLangganan.vb",
+              "RelativeDocumentMoniker": "SIParkir\\frmLangganan.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\frmLangganan.vb",
+              "RelativeToolTip": "SIParkir\\frmLangganan.vb",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAWwLYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-21T04:58:23.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLangganan.vb [Design]",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\frmLangganan.vb",
+              "RelativeDocumentMoniker": "SIParkir\\frmLangganan.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\frmLangganan.vb [Design]",
+              "RelativeToolTip": "SIParkir\\frmLangganan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-21T04:58:20.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmLogin.vb [Design]",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\frmLogin.vb",
+              "RelativeDocumentMoniker": "SIParkir\\frmLogin.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\frmLogin.vb [Design]",
+              "RelativeToolTip": "SIParkir\\frmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-19T11:18:08.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModuleDB.vb",
+              "DocumentMoniker": "D:\\source\\SIParkir\\SIParkir\\ModuleDB.vb",
+              "RelativeDocumentMoniker": "SIParkir\\ModuleDB.vb",
+              "ToolTip": "D:\\source\\SIParkir\\SIParkir\\ModuleDB.vb",
+              "RelativeToolTip": "SIParkir\\ModuleDB.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-19T02:26:31.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
